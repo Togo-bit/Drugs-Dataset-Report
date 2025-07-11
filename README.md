@@ -1,7 +1,7 @@
 # Drugs-Dataset-Report
 
 # 1)Project Overview
-This project analyzes drugs data from an Drugs ataset to identify key performance metrics, understand different drugs behaviour, and analyze different medical conditions.
+This project analyzes drugs data from an Drugs dataset to identify key performance metrics, understand different drugs behaviour, and analyze different medical conditions.
 
 Tools used: **Python (Pandas, Matplotlib), SQL, Excel**
 
